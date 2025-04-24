@@ -1,0 +1,54 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
+    <mxGraphModel dx="3" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mFCi1XLEhcpo2Rhq2C32-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="30" target="mFCi1XLEhcpo2Rhq2C32-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;DOC_GEN&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;Generate domain specific documentation for specific project for journal submission&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#d79b00;shadow=1;fillColor=#ffe6cc;dashed=1;dashPattern=8 8;glass=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="990" y="160" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mFCi1XLEhcpo2Rhq2C32-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFCi1XLEhcpo2Rhq2C32-114" target="mFCi1XLEhcpo2Rhq2C32-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFCi1XLEhcpo2Rhq2C32-114" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;Data Collection&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Keyword extraction from user&lt;/li&gt;&lt;li&gt;process data to extract domain specific key words&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="1060" y="260" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mFCi1XLEhcpo2Rhq2C32-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFCi1XLEhcpo2Rhq2C32-115" target="mFCi1XLEhcpo2Rhq2C32-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFCi1XLEhcpo2Rhq2C32-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mFCi1XLEhcpo2Rhq2C32-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="400" as="sourcePoint" />
+            <mxPoint x="1390" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1340" y="420" />
+              <mxPoint x="1560" y="420" />
+              <mxPoint x="1560" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mFCi1XLEhcpo2Rhq2C32-115" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;Data Extraction&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Scrape domain specific journals&lt;/li&gt;&lt;li&gt;Extract paper details and content&lt;/li&gt;&lt;li&gt;Transform data&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="1100" y="380" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mFCi1XLEhcpo2Rhq2C32-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFCi1XLEhcpo2Rhq2C32-116" target="mFCi1XLEhcpo2Rhq2C32-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFCi1XLEhcpo2Rhq2C32-116" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;Data Generation&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Generate content refrence from journals topic wise&lt;/li&gt;&lt;li&gt;Structure document based on standard format.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="1055" y="504" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mFCi1XLEhcpo2Rhq2C32-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mFCi1XLEhcpo2Rhq2C32-117" target="mFCi1XLEhcpo2Rhq2C32-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mFCi1XLEhcpo2Rhq2C32-117" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;Data Evoluation&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Evoluate generated content based on the research&lt;/li&gt;&lt;li&gt;Refine content and regenerate content&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="1055" y="630" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mFCi1XLEhcpo2Rhq2C32-118" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;b&gt;Document Editing&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px; margin-left: 8px;&quot;&gt;&lt;/p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 51, 102), rgb(161, 205, 249));&quot;&gt;&amp;nbsp; &amp;nbsp;Desing word doc file to make the use edit personal content.&lt;/span&gt;&lt;p&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;strokeColor=#003366;shadow=1;fillColor=#D4E1F5;fontColor=#003366" vertex="1" parent="1">
+          <mxGeometry x="1055" y="750" width="330" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
