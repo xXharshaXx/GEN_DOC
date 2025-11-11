@@ -1,0 +1,311 @@
+2025-09-26 18:00:46,880 [INFO] root: /v1/chat/run called
+2025-09-26 18:00:46,880 [INFO] root: user_message=hi there
+2025-09-26 18:01:47,234 [INFO] root: bot_reply=<think>
+Okay, the user said "hi there." I need to respond appropriately. Since the system says to be concise and helpful, I should keep it short and friendly. Maybe greet them back and offer assistance. Let me check if there's any specific context needed, but since it's just a greeting, a simple response should work. I'll say "Hello! How can I assist you today?" That's friendly and opens the door for them to ask questions.
+</think>
+
+Hello! How can I assist you today?
+2025-09-26 18:26:47,031 [INFO] root: /v1/chat/run called
+2025-09-26 18:26:47,031 [INFO] root: user_message=can you say about black chain in 30 words
+2025-09-26 18:31:48,495 [INFO] root: /v1/chat/run (GET) called
+2025-09-26 18:31:48,502 [INFO] root: user_message=hi
+2025-09-26 18:31:57,454 [INFO] root: bot_reply=<think>
+Okay, the user is asking about "black chain" in 30 words. First, I need to figure out what they mean by "black chain." The term could refer to a few things. In technology, "black chain" might be a mistranslation or a specific term in a certain context. Alternatively, it could be a metaphorical term, like a chain of events or a sequence of actions.
+
+Wait, "black chain" is sometimes used in Chinese contexts to refer to a type of chain, maybe a black-colored one. But the user might be referring to something else. Alternatively, in some contexts, "black chain" could be a term related to blockchain, but that's a stretch. Or maybe it's a term from a specific industry, like a chain in a supply chain system.
+
+Alternatively, the user might be referring to a "black chain" as a metaphor for a series of negative events or a chain of bad luck. But I need to be precise. Since the user is asking for a concise answer in 30 words, I should check if there's a standard definition for "black chain."
+
+Wait, maybe it's a mistranslation. The term "black chain" in Chinese could be "\u9ed1\u94fe," which might refer to a black chain in a specific context, like a chain used in a particular industry. Alternatively, in some contexts, "black chain" could be a term related to a chain of events that are not transparent or are hidden.
+
+Alternatively, considering the user's request for a 30-word answer, I should provide a general explanation. If I can't find a specific term, I should explain that "black chain" is not a standard term and ask for clarification. But the user might be referring to a specific concept. Alternatively, maybe it's a term from a specific field, like a chain in a supply chain that's not transparent.
+
+Alternatively, in some contexts, "black chain" could refer to a chain that is not visible or is hidden, like a hidden chain of events. But without more context, it's hard to say. Since the user is asking for a concise answer, I should state that "black chain" is not a standard term and ask for clarification. However, the user might be referring to a specific term in their context. Alternatively, maybe it's a term from a specific industry or a local term.
+
+Alternatively, considering the possibility that the user is referring to a "black chain" as a metaphor for a chain of events that are not transparent or are part of a system that's not clear. In that case, I can explain that it's not a standard term and suggest possible interpretations. But since the user wants a 30-word answer, I need to be concise.
+
+Wait, maybe the user is referring to a "black chain" in the context of blockchain technology. But that's not a standard term. Alternatively, maybe it's a mistranslation of "black chain" as in a chain that's not visible, like a hidden chain. Alternatively, in some contexts, "black chain" could refer to a chain that's used in a specific application, like a chain in a machine or a part of a system.
+
+Given the ambiguity, the safest approach is to explain that "black chain" is not a standard term and ask for clarification. However, the user might be expecting a general explanation. Alternatively, if I can't determine the exact meaning, I should state that and offer to help if they provide more context. But the user wants a 30-word answer, so I need to be concise.
+
+Alternatively, maybe the user is referring to a "black chain" as a chain that is black in color. In that case, I can explain that it's a chain made of black material, but that's a very literal interpretation. However, without more context, that's the only possible answer. But the user might be referring to something else.
+
+In conclusion, the best approach is to state that "black chain" is not a standard term and ask for clarification. However, since the user wants a 30-word answer, I need to provide a concise response. Therefore, I'll explain that "black chain" is not a standard term and suggest possible interpretations, keeping it within the word limit.
+</think>
+
+"Black chain" is not a standard term. It could refer to a black-colored chain, a metaphorical "chain of events," or a mistranslation. Clarify the context for a precise explanation. (30 words)
+2025-09-26 18:32:26,327 [INFO] root: bot_reply=<think>
+Okay, the user said "hi". I need to respond appropriately. Since they're just greeting me, I should acknowledge their hello. Maybe say "Hello!" and offer help. Keep it friendly and open-ended. Let them know I'm here to assist with anything they need. Make sure it's concise but welcoming. No need for any technical terms or complicated responses. Just a simple, polite reply.
+</think>
+
+Hello! How can I assist you today? \U0001f60a
+2025-09-26 18:34:13,124 [INFO] root: /v1/chat/run (GET) called
+2025-09-26 18:34:13,124 [INFO] root: user_message=can you say what kind of the logic is used in this file C:\Users\GSriRam\PlayGround\AI\NLP\GEN-PRO\GEN_DOC_3.0\langgraph.ipynb
+2025-09-26 18:36:33,462 [INFO] root: bot_reply= The file `langgraph.ipynb` appears to be a Python script designed for natural language processing tasks using various libraries such as `langchain`, `langsmith`, and others. Here's a summary of the key details, likely outputs, and any images or plots mentioned in the provided content:
+
+### Key Details:
+1. **Libraries Used**: The script utilizes several Python libraries including `langchain`, `langsmith`, `langchain_openai`, among others for natural language processing tasks.
+2. **LLM Configuration**: The script configures an Azure Chat OpenAI model (`AzureChatOpenAI`) with specific API keys, endpoints, and deployment details.
+3. **System Prompt**: A system prompt is defined to guide the behavior of the AI assistant during conversations.
+4. **State Management**: The script manages states using `TypedDict` for type annotations and defines a state structure that includes messages.
+5. **Graph-based Workflow**: It uses a graph-based workflow (`StateGraph`) to manage the flow of conversation nodes, with specific nodes defined for user interactions.
+6. **Integration with Langfuse**: The script integrates with `Langfuse` for tracking and logging purposes in the natural language processing pipeline.
+7. **Chatbot Functionality**: The script includes a chat loop that allows interaction with the AI assistant, providing real-time responses based on the defined system prompt and user inputs.
+
+### Likely Outputs:
+1. **AI Conversations**: The script is designed to facilitate natural language conversations between users and an AI assistant, where the assistant responds based on predefined rules and contextual information from previous interactions.
+2. **Error Handling**: If there are issues with API connections or other errors in the library usage, the script might provide error messages indicating what went wrong during execution.
+3. **Logging and Tracking**: The integration with `Langfuse` allows for detailed tracking of prompts, responses, and user interactions, which can be useful for debugging, analytics, or compliance purposes.
+4. **User Interaction**: Users can interact with the AI assistant by typing messages in a loop, receiving real-time responses based on the current state of the conversation graph.
+
+### Images/Plots:
+The content provided does not mention any specific images or plots directly related to the script's functionality. However, typical outputs might include text-based interactions between users and AI assistants, error messages if something goes wrong during execution, and possibly some debug logs from Langfuse integration.
+
+This summary should help you understand the primary purpose and functionalities of the script contained in `langgraph.ipynb`.
+2025-10-02 12:41:42,270 [INFO] root: /v1/chat/run called
+2025-10-02 12:41:42,270 [INFO] root: user_message=hi there what you can do
+2025-10-02 12:44:25,430 [INFO] root: bot_reply=<think>
+Okay, the user said, "hi there what you can do." I need to respond in a helpful and concise way. Let me start by acknowledging their greeting. Then, I should list the main functions of the AI assistant. The user might be interested in knowing the range of assistance I can provide.
+
+First, I can mention answering questions across various topics like science, technology, culture, etc. That shows versatility. Next, helping with problem-solving in math, coding, or logic puzzles would be good to include. Also, language support is important—maybe mention translating or writing in different languages.
+
+I should also highlight creativity, like generating text, stories, or poems. It's useful to note that I can assist with learning new skills or explaining concepts. Additionally, offering general advice and support in daily life situations would be helpful. But I need to keep it concise, so I'll group these points together without going into too much detail.
+
+Wait, the user might be looking for specific examples. Maybe include things like writing emails, creating content, or even debugging code. But I have to be careful not to list too many points. Let me check the original response to ensure I'm not missing anything. Oh, right, the original response was brief but covered the main areas. I should follow that structure but make sure it's clear and friendly.
+
+Also, the user might be testing if I understand my capabilities. So, confirming that I can handle a wide range of tasks would be good. I should end with an invitation to ask for help, making it easy for them to proceed. Let me put this all together in a natural, conversational tone without markdown.
+</think>
+
+Hello! I can help with a wide range of tasks, including answering questions, solving problems, writing content, translating languages, and more. Let me know what you need assistance with! \U0001f60a
+2025-10-02 12:45:00,343 [INFO] root: /v1/chat/run (GET) called
+2025-10-02 12:45:00,343 [INFO] root: user_message=hi what you can do 
+2025-10-02 12:46:10,689 [INFO] root: bot_reply=<think>
+Okay, the user said, "hi what you can do." I need to respond in a helpful and concise way. Let me start by greeting them back. Then, I should mention the main functions of the AI assistant. The user is probably looking to know the scope of what I can help with.
+
+First, I'll list the key areas: answering questions, providing information, helping with tasks like writing or calculations. Maybe also mention support for multiple languages. I should keep it brief but cover the essentials. Avoid technical jargon. Make sure to invite them to ask specific questions. Let me check if I'm missing anything important. Oh, maybe include something about being a helpful and friendly assistant. Alright, that should cover it. Let me put it all together in a natural, friendly tone.
+</think>
+
+Hello! I can help with a wide range of tasks, including answering questions, providing information, assisting with writing, calculations, and more. I’m here to support you in a friendly and helpful way. What would you like to know or need help with? \U0001f60a
+2025-10-02 12:52:53,184 [INFO] root: /v1/chat/run called with method: POST
+2025-10-02 12:52:53,185 [INFO] root: user_message=hi there what you can do 
+2025-10-02 12:54:15,360 [INFO] root: bot_reply=Hi! I'm here to help with general assistance, answer questions, provide information, and support with various tasks. Just let me know how I can help! \U0001f60a
+2025-10-02 12:59:59,760 [INFO] root: /v1/chat/run called with method: POST
+2025-10-02 12:59:59,761 [INFO] root: user_message=can you explore the this file and give which techniques use in that file 'C:\Users\GSriRam\PlayGround\AI\NLP\GEN-PRO\GEN_DOC\pro_1\content_generation\test_notebook.ipynb'
+2025-10-02 13:02:52,601 [INFO] root: bot_reply=Sure, I can help summarize the content of the provided Jupyter Notebook and identify the main techniques used in it. Here's a breakdown of what the notebook does and which techniques are employed:
+
+### Summary of the Notebook Content
+The notebook is focused on training a machine learning model using TensorFlow and Keras to classify skin images from a dataset. The key steps include:
+1. **Data Loading and Preparation**:
+   - The notebook reads and processes image files from a directory structure, resizing each image to 128x128 pixels and normalizing their pixel values.
+   - It uses `cv2.imread` for reading images and `cv2.resize` along with normalization to prepare the data for training.
+   
+2. **Data Encoding**:
+   - The labels (categories) are encoded using `LabelEncoder` from scikit-learn, which converts categorical labels into numerical format suitable for machine learning models.
+
+3. **Model Building**:
+   - A Sequential model is built using TensorFlow and Keras. It utilizes the EfficientNetV2S architecture pre-trained on ImageNet, with modifications to include a global average pooling layer followed by a dense layer for classification.
+   - The `include_top=False` parameter ensures that only the base network is used without the final classification layers, which are then added as per the model's requirements.
+   - The initial weights of the EfficientNetV2S are frozen to prevent them from being updated during training (since they are pre-trained).
+
+4. **Model Training**:
+   - The model is compiled with a sparse categorical cross-entropy loss function and RMSprop optimizer, configured for 50 epochs with a batch size of 50.
+   - Data is split into training and validation sets using `train_test_split`.
+   - Model performance is monitored through accuracy (`acc`) and loss metrics during training.
+
+5. **Model Evaluation**:
+   - The model's predictions are evaluated on the test set, with results visualized in plots showing both training and validation accuracy and loss over epochs.
+
+### Key Techniques Used:
+- **Data Handling**: Using OpenCV for image reading and manipulation (`cv2.imread`, `cv2.resize`, normalization).
+- **Machine Learning**: TensorFlow/Keras for model construction, EfficientNetV2S architecture, and training with custom layers.
+- **Data Encoding**: scikit-learn's `LabelEncoder` for converting category labels to numerical format.
+- **Model Training and Evaluation**: Using Keras Sequential API for model definition, RMSprop optimizer, sparse categorical cross-entropy loss, and evaluation metrics like accuracy and loss plots.
+
+### Mention of Images/Plots:
+The notebook includes visualizations such as:
+- Sample image display using `plt.imshow`.
+- Training and validation accuracy and loss plots are generated dynamically during model training and saved in the local directory (not shown here, but indicated by plot commands).
+
+This summary provides a clear overview of the notebook's purpose and its technical implementation details.
+2025-10-02 13:06:30,509 [INFO] root: /v1/chat/run called with method: POST
+2025-10-02 13:06:30,510 [INFO] root: user_message=can you explore the this file and give which techniques use in that file 'C:\Users\GSriRam\PlayGround\AI\NLP\GEN-PRO\GEN_DOC\pro_1\content_generation\test_notebook.ipynb'
+2025-10-02 13:08:08,701 [INFO] root: bot_reply=Sure, let's explore the file and summarize its content. The file `test_notebook.ipynb` contains a Jupyter Notebook with Python code focused on training a machine learning model using TensorFlow and Keras for image classification tasks related to skin diseases. Here are some key details and techniques used in this notebook:
+
+### Key Details:
+1. **Data Loading and Preprocessing:**
+   - The notebook starts by importing necessary libraries such as `os`, `cv2`, `matplotlib.pyplot`, `numpy`, `random`, `tensorflow`, etc.
+   - It defines a function `shape_data` to resize and normalize images to a specific shape and scale.
+   - Images are loaded from a directory structure representing skin disease categories, resized to 128x128 pixels, normalized, and stored in the `train` list.
+
+2. **Data Encoding:**
+   - The dataset labels (categories) are encoded using `LabelEncoder`.
+
+3. **Model Training:**
+   - A Sequential model is created using TensorFlow/Keras.
+   - The EfficientNetV2S architecture from TensorFlow's Keras applications is used as the base model, with modifications including global average pooling and a dense layer for classification.
+   - The first layer of the base model is frozen to prevent it from being trained during subsequent training steps.
+   - The model is compiled with `sparse_categorical_crossentropy` loss, RMSprop optimizer, and metrics include accuracy (`acc`).
+   - The model is trained on the training data (with a validation split) for 50 epochs in batches of size 50.
+
+4. **Model Evaluation:**
+   - After training, the model's performance is evaluated using test data.
+   - Predictions and actual values are compared to assess accuracy.
+   - Training and validation loss/accuracy plots are generated to visualize learning curves.
+
+### Techniques Used:
+- **Data Loading and Preprocessing:**
+  - Image loading and preprocessing (resizing, normalization) with OpenCV (`cv2`).
+  - Using `os.listdir` for directory traversal to load images from hierarchical directories.
+  
+- **Machine Learning Model Building:**
+  - TensorFlow/Keras for model construction, including Sequential models and custom layers like GlobalAveragePooling2D.
+  - EfficientNetV2S architecture for feature extraction.
+  - Training a neural network with backpropagation using RMSprop optimizer.
+  
+- **Model Evaluation:**
+  - Loss and accuracy metrics during training to monitor model performance.
+  - Plotting learning curves (loss and accuracy over epochs) to analyze the model's convergence and generalization capabilities.
+
+### Mention of Images/Plots:
+The notebook includes code snippets that display images using `plt.imshow` and plot graphs such as loss and accuracy curves using Matplotlib (`plt`). These visualizations help in understanding the data distribution, model performance, and training dynamics during the learning process.
+
+This notebook provides a comprehensive example of how to preprocess image data for machine learning tasks, build a neural network model with TensorFlow/Keras, train it on a dataset, evaluate its performance, and visualize key metrics.
+2025-10-02 13:14:41,691 [INFO] root: /v1/chat/run called
+2025-10-02 13:14:41,691 [INFO] root: user_message=can you explore the this file and give which techniques use in that file 'C:\Users\GSriRam\PlayGround\AI\NLP\GEN-PRO\GEN_DOC\pro_1\content_generation\test_notebook.ipynb'
+2025-10-02 13:17:22,078 [INFO] root: bot_reply=Sure, I can help summarize the content of the file and identify the techniques used in it. Here's a breakdown of what the notebook does:
+
+1. **Imports**: The notebook starts by importing necessary libraries such as `os`, `cv2`, `matplotlib.pyplot`, `numpy`, `random`, `tensorflow`, and others.
+
+2. **Data Preparation**:
+   - **Directory Listing**: It lists directories to get the file paths for image data.
+   - **Image Loading and Preprocessing**: Images are loaded, resized to 128x128 pixels, normalized between 0 and 1 using `cv2.normalize`.
+
+3. **Data Collection**:
+   - Images are read from directories and stored in a list after preprocessing.
+   - A maximum of 1000 images per class is collected to form the dataset.
+
+4. **Visualization**:
+   - An image is visualized using `plt.imshow`.
+
+5. **Label Encoding**:
+   - Labels are encoded using `LabelEncoder` for machine learning tasks.
+
+6. **Model Building**:
+   - A Sequential model based on EfficientNetV2S architecture is built, with modifications to include global average pooling and a dense layer for classification.
+   - The first layer's weights are frozen since they come from ImageNet.
+   - Model compilation includes loss function `sparse_categorical_crossentropy`, optimizer `RMSprop`, and metrics including accuracy (`acc`).
+
+7. **Training**:
+   - The model is trained on the training data with a validation split of 20%.
+   - Training occurs over 50 epochs with a batch size of 50, shuffling enabled.
+
+8. **Evaluation**:
+   - Model performance is evaluated using test data.
+   - Predictions and actual images are visualized for comparison.
+   - Plots show training and validation accuracy and loss curves.
+
+9. **Saving and Loading the Model**:
+   - The trained model is saved to a file, which can be loaded later for predictions.
+
+### Key Techniques Used:
+- **Data Handling**: Importing necessary libraries, loading images from directories, preprocessing images.
+- **Model Building**: Using EfficientNetV2S as a base and customizing it with global average pooling and dense layers.
+- **Training and Evaluation**: Training a neural network using TensorFlow/Keras, evaluating performance with validation data, and visualizing results.
+- **Visualization**: Plotting training curves (accuracy and loss) to monitor model performance.
+
+This notebook is focused on building and training a deep learning model for image classification tasks, specifically tailored for skin disease diagnosis based on the provided dataset.
+2025-10-02 17:13:07,526 [INFO] root: /v1/chat/run called
+2025-10-02 17:13:07,527 [INFO] root: user_message=hi how are you 
+2025-10-02 17:14:24,414 [INFO] root: bot_reply=Hello! I'm here to help. How can I assist you today?
+2025-10-02 17:15:25,522 [INFO] root: /v1/chat/run called
+2025-10-02 17:15:25,522 [INFO] root: user_message=can you explore the this file and give which techniques use in that file 'C:\Users\GSriRam\PlayGround\AI\NLP\GEN-PRO\GEN_DOC\pro_1\content_generation\test_notebook.ipynb'
+2025-10-02 17:17:49,238 [INFO] root: bot_reply=Sure, I can summarize the content of the file and mention the techniques used in it. Here's a breakdown of what the notebook does:
+
+1. **Imports**: The notebook starts by importing necessary libraries such as `os`, `cv2`, `matplotlib.pyplot`, `numpy`, `random`, `tensorflow`, and others.
+
+2. **Data Preparation**:
+   - **Directory Setup**: It defines a file path for image data and lists the directories within it.
+   - **Image Processing Function**: A function `shape_data` is defined to resize and normalize images to a specific shape.
+   - **Data Collection**: Images are read from the directory, processed by `shape_data`, and stored in a list along with their labels.
+
+3. **Data Visualization**:
+   - An image is displayed using `plt.imshow` to visualize a sample image from the dataset.
+
+4. **Label Encoding**:
+   - The labels are encoded using `LabelEncoder`.
+
+5. **Model Building**:
+   - A Sequential model is built using TensorFlow's Keras API, based on EfficientNetV2S architecture.
+   - The model includes a GlobalAveragePooling2D layer followed by a Dense layer with softmax activation for classification.
+   - The first layer (EfficientNetV2S) is frozen to prevent it from being trained during subsequent training phases.
+   - The model is compiled with `sparse_categorical_crossentropy` loss, RMSprop optimizer, and evaluation metrics include accuracy (`acc`).
+
+6. **Model Training**:
+   - The model is trained on the training data (80% of the dataset) for 50 epochs with a batch size of 50. Validation split is set to 20%.
+   - Model weights are saved after training.
+
+7. **Evaluation**:
+   - After training, the model's performance is evaluated on the test data.
+   - Predictions and actual labels are compared visually using `plt.imshow`.
+   - Training and validation accuracy/loss plots are generated to visualize the model's learning progress.
+
+**Techniques Used**:
+- **Data Handling**: Importing necessary libraries, reading images from directories, preprocessing images.
+- **Model Building**: Using TensorFlow's Keras API for a pre-trained EfficientNetV2S model with modifications for transfer learning and fine-tuning.
+- **Training and Evaluation**: Training the model on image data, saving weights, evaluating performance using accuracy and loss plots.
+
+This notebook appears to be focused on building and training a neural network for image classification tasks using deep learning techniques.
+2025-10-02 17:26:23,612 [INFO] root: /v1/chat/run called
+2025-10-02 17:26:23,614 [INFO] root: user_message=can you explore the this file and give which techniques use in that file 'C:\Users\GSriRam\PlayGround\AI\NLP\GEN-PRO\GEN_DOC\pro_1\content_generation\test_notebook.ipynb'
+2025-10-02 17:29:12,755 [INFO] root: bot_reply=The provided file is a Jupyter Notebook (`.ipynb`) that focuses on building and training a neural network for image classification using the EfficientNetV2S architecture from TensorFlow's Keras API. Here are key details, techniques used, and likely outputs mentioned in the notebook:
+
+### Key Details:
+1. **Data Preparation**:
+   - The notebook starts by importing necessary libraries including `os`, `cv2`, `matplotlib.pyplot`, `numpy`, `random`, `tensorflow` among others.
+   - It defines a function `shape_data(img)` to resize and normalize images to a specific shape (128x128) for consistent input size.
+   - The script then loads images from a directory structure, where each subdirectory represents a class label. This is done using `os.listdir` and `cv2.imread`.
+
+2. **Data Loading and Preprocessing**:
+   - Images are loaded into the `train` list after being processed by `shape_data`. Each image entry in `train` consists of an image array and its corresponding class label (encoded as integers).
+   - The notebook uses a loop to iterate through directories, reading images and appending them to the training set until 1000 images are collected.
+
+3. **Data Visualization**:
+   - A sample image is displayed using `plt.imshow` for visual inspection.
+
+4. **Model Building**:
+   - The EfficientNetV2S model from TensorFlow's Keras API is used as a base model, with modifications including setting `include_top=False` to exclude the final classification layer and adding custom layers (GlobalAveragePooling2D followed by a Dense layer).
+   - The initial weights are loaded from ImageNet (`weights="imagenet"`), and the first layer's trainability is set to false.
+   - The model is compiled with `sparse_categorical_crossentropy` loss, RMSprop optimizer, and metrics including accuracy (`acc`).
+
+5. **Model Training**:
+   - The model is trained on a subset of the data (80% for training and 20% for validation) over 50 epochs with a batch size of 50.
+   - Model checkpoints are saved after each epoch using `model.save`.
+
+6. **Evaluation**:
+   - After training, model performance is visualized through plots of accuracy and loss curves against epochs.
+   - Predictions on test data are made to evaluate the model's performance visually by displaying images alongside their predicted labels.
+
+### Techniques Used:
+- Data loading and preprocessing using `os` for directory traversal and image reading with OpenCV (`cv2`).
+- EfficientNetV2S architecture from TensorFlow's Keras API for feature extraction and transfer learning.
+- Custom model building, including adding global average pooling layers and dense layers for classification.
+- Model training and evaluation using standard deep learning practices such as train/test split, loss functions, optimizers, and visualization of performance metrics.
+
+### Likely Outputs:
+1. **Visualization**: Sample images from the dataset will be displayed to ensure data loading is correct.
+2. **Model Summary**: A summary of the EfficientNetV2S model with added layers will be printed.
+3. **Training Curves**: Plots showing how accuracy and loss change over epochs during training.
+4. **Predicted Labels**: Visual inspection of images along with their predicted labels from the trained model.
+5. **Model Performance**: Insights into whether the model is underfitting or overfitting based on the plots, which can guide further tuning or adjustments to the model architecture.
+
+This notebook provides a comprehensive example of how to use EfficientNet for image classification tasks in Python using TensorFlow and Keras, with detailed data handling and model evaluation steps.
+2025-11-05 12:20:19,654 [INFO] api.token_utils: TOKEN_USAGE | chat_general | Session: default | Input: 2644 tokens | Output: 0 tokens | Total: 2644 tokens | Processing: 0.000s | Generation: 0.000s | Total: 0.205s
+2025-11-05 12:24:37,487 [INFO] api.token_utils: TOKEN_USAGE | chat_general | Session: default | Input: 2644 tokens | Output: 11 tokens | Total: 2655 tokens | Processing: 0.000s | Generation: 61.119s | Total: 61.140s
+2025-11-05 12:24:37,613 [INFO] api.main: CHAT_COMPLETE | Session: default | Total time: 61.310s | Analysis: False
+2025-11-05 12:30:26,070 [INFO] api.token_utils: TOKEN_USAGE | classify_intent | Session: default | Input: 169 tokens | Output: 150 tokens | Total: 319 tokens | Processing: 0.000s | Generation: 185.335s | Total: 185.387s
+2025-11-05 12:34:40,876 [INFO] api.token_utils: TOKEN_USAGE | extract_entities | Session: default | Input: 392 tokens | Output: 334 tokens | Total: 726 tokens | Processing: 0.000s | Generation: 254.704s | Total: 254.751s
+2025-11-05 12:41:07,834 [INFO] api.token_utils: TOKEN_USAGE | validate_extraction | Session: default | Input: 984 tokens | Output: 633 tokens | Total: 1617 tokens | Processing: 0.000s | Generation: 386.856s | Total: 386.905s
+2025-11-05 12:57:52,780 [INFO] api.token_utils: TOKEN_USAGE | build_key_points | Session: default | Input: 455 tokens | Output: 153 tokens | Total: 608 tokens | Processing: 0.000s | Generation: 1004.865s | Total: 1004.907s
+2025-11-05 13:07:32,734 [INFO] api.token_utils: TOKEN_USAGE | build_grounded_suggestions | Session: default | Input: 4834 tokens | Output: 288 tokens | Total: 5122 tokens | Processing: 0.000s | Generation: 576.875s | Total: 576.926s
+2025-11-05 13:07:32,765 [INFO] api.token_utils: TOKEN_USAGE | chat_analysis | Session: default | Input: 2764 tokens | Output: 431 tokens | Total: 3195 tokens | Processing: 2412.076s | Generation: 0.000s | Total: 2412.077s
+2025-11-05 13:07:32,996 [INFO] api.main: CHAT_COMPLETE | Session: default | Total time: 2412.429s | Analysis: True
